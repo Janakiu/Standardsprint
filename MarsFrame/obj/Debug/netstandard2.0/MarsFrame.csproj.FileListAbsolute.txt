@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Mars\MarsFrame\bin\Debug\netstandard2.0\MarsFrame.deps.json
+C:\Users\User\source\repos\Mars\MarsFrame\bin\Debug\netstandard2.0\MarsFrame.dll
+C:\Users\User\source\repos\Mars\MarsFrame\obj\Debug\netstandard2.0\MarsFrame.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mars\MarsFrame\obj\Debug\netstandard2.0\MarsFrame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Mars\MarsFrame\obj\Debug\netstandard2.0\MarsFrame.AssemblyInfo.cs
+C:\Users\User\source\repos\Mars\MarsFrame\obj\Debug\netstandard2.0\MarsFrame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mars\MarsFrame\bin\Debug\netstandard2.0\MarsFrame.pdb
+C:\Users\User\source\repos\Mars\MarsFrame\obj\Debug\netstandard2.0\MarsFrame.dll
+C:\Users\User\source\repos\Mars\MarsFrame\obj\Debug\netstandard2.0\MarsFrame.pdb

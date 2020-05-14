@@ -1,0 +1,6 @@
+{
+  "DockerBaseURL": "http://localhost:5000/",
+  "BaseURL": "http://skillswap.pro",
+  "ExtendReportPath": "ExtendReport\\"
+
+}
